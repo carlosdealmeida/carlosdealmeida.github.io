@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Bem vindo ao meu blog.
 
-Maybe say a some things about yourself.
+Se você busca tutoriais de fácil entendimento e aplicação rápida, você veio ao lugar certo.
 
-Or maybe what you plan to blog about.
+Caso tenha algum pedido de tutorial ou queira tirar dúvidas, clique aqui e abra uma issue no repositório, e tentarei da melhor forma responder a todos.
