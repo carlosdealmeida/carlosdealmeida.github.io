@@ -1,9 +1,9 @@
 title: Blog do CJ
-description: My Personal Blog
+description: Esse blog tem o intuito de transmitir o máximo de conhecimento de forma simples e rápida.
 author: Carlos Junior
-logo: /carlosdealmeida.github.io/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+logo: /static/img/avatar.png
+github: https://github.com/carlosdealmeida
+about: Programador que adora transmitir conhecimento
 
 baseurl: ""
 url: ""
