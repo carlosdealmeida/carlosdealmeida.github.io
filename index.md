@@ -1,5 +1,5 @@
 Bem vindo ao meu blog.
 
-Se você busca tutoriais de fácil entendimento e aplicação rápida, você veio ao lugar certo.
+Se vocÃª busca tutoriais de fÃ¡cil entendimento e aplicaÃ§Ã£o rÃ¡pida, vocÃª veio ao lugar certo.
 
-Caso tenha algum pedido de tutorial ou queira tirar dúvidas, clique aqui e abra uma issue no repositório, e tentarei da melhor forma responder a todos.
+Caso tenha algum pedido de tutorial ou queira tirar dÃºvidas, clique aqui e abra uma issue no repositÃ³rio, e tentarei da melhor forma responder a todos.
