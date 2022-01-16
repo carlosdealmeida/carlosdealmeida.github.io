@@ -18,7 +18,7 @@ linkedin_username: "carlos-alberto-de-almeida-junior"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+remote-theme: "codeasashu/hcz-jekyll-blog"
 
 rss: rss
 
