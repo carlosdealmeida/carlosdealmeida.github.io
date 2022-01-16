@@ -65,6 +65,12 @@ p.info a {
     color: rgba(255, 255, 255, 0.63);
     background: #009688;
 }
+
+.menu
+{
+    background-color: #004595;
+}
+
 .menu ul li {
     list-style: none;
     margin: 5px 0;
@@ -219,9 +225,4 @@ footer {
     color: #BBB;
     position: absolute;
     right: 12px;
-}
-
-body > .container > .well-primary
-{
-    background-color: #004595;
 }
