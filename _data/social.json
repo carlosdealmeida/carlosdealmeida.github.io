@@ -1,18 +1,10 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
-  },
-  {
-    "icon": "fa-twitter",
-    "link": ""
-  },
-  {
     "icon": "fa-linkedin",
-    "link": ""
+    "link": "https://www.linkedin.com/in/carlos-alberto-de-almeida-junior/"
   },
   {
-    "icon": "fa-stack-exchange",
-    "link": ""
-  }
+    "icon": "fa-github",
+    "link": "https://github.com/carlosdealmeida"
+  }  
 ]
