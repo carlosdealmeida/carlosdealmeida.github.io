@@ -1,30 +1,9 @@
 [
 	{
-		"name": "Cool project 1",
+		"name": "workshopMinimalAPI",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
-	},
-	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["Android","PHP"]
-	},
-	{
-		"name": "Cool project 3",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
-	},
-	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
+		"url": "https://github.com/learn-minimalApi-NET/workshopMinimalApi",
+		"date": "Nov 2021",
+		"tags": [".NET","Minimal API"]
 	}
-
 ]
