@@ -226,3 +226,7 @@ footer {
     position: absolute;
     right: 12px;
 }
+
+.well {
+    background-color: #004595;
+}
