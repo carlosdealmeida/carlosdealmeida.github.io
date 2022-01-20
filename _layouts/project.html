@@ -30,7 +30,7 @@ layout: default
     			</div>
     			<div class="project-footer"> 
     				{% if i.url %} 
-    				<a href="{{ i.url }}" class="btn btn-info btn-raised btn-sm project-link">View</a>
+    				<a href="{{ i.url }}" target = "{{ i.target }}" class="btn btn-info btn-raised btn-sm project-link">View</a>
     				{% endif %}
     				<span class="project-timeline">{{ i.date }}</span>
     			</div>

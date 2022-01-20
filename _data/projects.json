@@ -4,6 +4,7 @@
 		"image": "placeholder.jpg",
 		"url": "https://github.com/learn-minimalApi-NET/workshopMinimalApi",
 		"date": "Nov 2021",
-		"tags": [".NET","Minimal API"]
+		"tags": [".NET","Minimal API"],
+		"target" : "_blank"
 	}
 ]
