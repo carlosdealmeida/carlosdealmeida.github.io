@@ -1,5 +1,8 @@
 ## Defensores de padrão
 
+![c#](https://arquivo.devmedia.com.br/cursos/imagem/curso_376.jpg)
+####Imagem retirada do site DevMedia
+
 Umas das coisas que menos gosto são os defensores de padrão e arquitetura dizendo que a ou b é melhor que c e d.
 
 O padrão que é bom para o seu projeto é o que você deve usar, por exemplo, um **CRUD** simples não é necessário usar padrões como **DDD**, pode ser um simples **MVC**.
@@ -27,3 +30,4 @@ E por fim o User.Directory, ele basicamente consiste nas implementações dos co
 Creio que o General e o UserDirectory estão bem explanados, mas o Infra.Data é bem amplo os conceitos que você pode inserir nele. Por isso durante os próximos dias tentarei mostrar como construir o seu Infra.Data da melhor forma.
 
 E você? tem um padrão ou uma arquitetura que goste de usar diferente dos "modinhas"? rsrsrs, comenta aqui embaixo. Se gostou deixa seu curtir para que esse post possa alcançar mais pessoas.
+
