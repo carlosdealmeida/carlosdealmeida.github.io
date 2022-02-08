@@ -1,8 +1,10 @@
 ## Defensores de padrão
 
 <p align="center">
+
 ![c#](https://arquivo.devmedia.com.br/cursos/imagem/curso_376.jpg)
 ###### Imagem retirada do site DevMedia
+
 </p>
 
 Umas das coisas que menos gosto são os defensores de padrão e arquitetura dizendo que a ou b é melhor que c e d.
