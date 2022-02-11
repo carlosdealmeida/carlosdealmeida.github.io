@@ -205,7 +205,7 @@ namespace Infra.Data.Minimal.Repository.Persistence
 Irá aparecer um problema na implementação da classe TarefasRepository. O que ocorre, por se tratar de implementação com interface e Generic, é necessário que o Context tenha um construtor public sem parâmetros.
 Como não precisaremos de construtroes agora iremos remover o construtor do Context.
 
-AppDbContext - https://github.com/learn-minimalApi-NET/Infra.Data.Minimal/blob/main/src/Contexts/AppDbContext.cs
+[Link do context](https://github.com/learn-minimalApi-NET/Infra.Data.Minimal/blob/main/src/Contexts/AppDbContext.cs)
 
 Com isso já temos nosso acesso a tabela do banco de dados, agora iremos mapear. Essa parte é bem chata dependendo do tamanho da sua classe, pois como estamos usando o conceito CodeFirst precisamos representar a classe com todas
 as propriedades, primary key, foreigns keys e etc, com isso é temos que "codar" bastante, mas somos desenvolvedores estamos aqui pra isso.
@@ -266,7 +266,7 @@ para executar os comandos de CRUD.
 Iremos criar os métodos OnConfiguring e OnModelCreating, o primeiro serve para que o Context saiba para qual banco apontar e o segundo é para que a aplicação se comunique com o banco de dados de acordo com o nosso
 mapeamento.
 
-AppDbContext - https://github.com/learn-minimalApi-NET/Infra.Data.Minimal/blob/main/src/Contexts/AppDbContext.cs
+[Link do context](https://github.com/learn-minimalApi-NET/Infra.Data.Minimal/blob/main/src/Contexts/AppDbContext.cs)
 
 E por fim iremos colocar no inicio do Context a propriedade que irá referenciar a tabela Tarefas:
 
