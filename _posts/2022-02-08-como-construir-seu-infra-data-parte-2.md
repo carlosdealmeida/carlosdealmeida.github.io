@@ -210,7 +210,7 @@ Como não precisaremos de construtroes agora iremos remover o construtor do Cont
 Com isso já temos nosso acesso a tabela do banco de dados, agora iremos mapear. Essa parte é bem chata dependendo do tamanho da sua classe, pois como estamos usando o conceito CodeFirst precisamos representar a classe com todas
 as propriedades, primary key, foreigns keys e etc, com isso é temos que "codar" bastante, mas somos desenvolvedores estamos aqui pra isso.
 
-Iremos usar a FluentApi do EntityFrameworkCore, para quem quiser ler mais segue o link de um site bem completo: https://lnkd.in/dUdTCYHz
+Iremos usar a FluentApi do EntityFrameworkCore, para quem quiser ler mais segue o link de um site bem completo: [learnentityframeworkcore](https://www.learnentityframeworkcore.com/configuration/fluent-api)
 
 Como nossa classe é pequena, irá ficar assim:
 
